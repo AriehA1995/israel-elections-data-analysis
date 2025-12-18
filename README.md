@@ -1,5 +1,6 @@
 # Israel elections data analysis
-bla bla bla
+This project analyses the data of elections in Israel. It shows that high electoral threshold can make a lot of wasted votes.
+Made with Excel and Power BI.
 ## Tools Used
 - Power BI
 - Microsoft Excel (advanced functions, charts, automated calculations)
